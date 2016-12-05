@@ -29,7 +29,7 @@ Steele & Iliinsky. Beautiful Visualization, any chapters
   
 [Презентация](https://github.com/alexeyknorre/datavis2016/blob/master/presentations/datavis-2.pdf)
   
-**Литература к занятию**
+**Литература к занятию**  
 Field A., Miles J., Field Z. Discovering Statistics Using R. Chapter 4. Exploring Data with Graphs.  
 Tufte Edward. The Visual Display of Quantitative Information. Chapter 5: Chartjunk.  
 Howard Wainer. How to Display Data Badly. The American Statistician, Vol. 38, No. 2 (May, 1984), pp. 137-147.  
@@ -39,7 +39,7 @@ Cleveland William, Elements of Graphing Data. Chapter 2: Principles of graph con
 ## Неделя 3. Научная коммуникация: визуальное восприятие и искусство презентаций.
 Когнитивные задачи и восприятие. Теории и эксперименты в области визуального восприятия. Прикладные выводы из исследований: как правильно делать визуализацию? Цветовые схемы и их выбор. Оформление таблиц. Презентации в PowerPoint: что с ними не так? Случай катастрофы шаттла «Коламбия». Оформление и вид презентаций и слайдов. Как рассказывать о своей научной работе?
   
-**Литература к занятию**
+**Литература к занятию**  
 Christopher G. Healey, James T. Enns. Attention and Visual Memory in Visualization and Computer Graphics. IEEE Transactions on visualization and computer graphics, Vol. 18, No. 7, July 2012.  
 Edward Tufte, [The Cognitive Style of PowerPoint](http://users.ha.uth.gr/tgd/pt0501/09/Tufte.pdf)  
 Cleveland William, Elements of Graphing Data. Chapter 4: Graphical Perception  
