@@ -13,7 +13,6 @@
 **Литература к занятию**  
 Tufte Edward. The Visual Display of Quantitative Information. Chapter 1 & 2.  
 Healy Kieran. Data Visualization in Sociology. Annual Review of Sociology, 40:105–128  
-Tufte Edward. The Visual Display of Quantitative Information. Chapter 1  
 Steele & Iliinsky. Beautiful Visualization, any chapters  
 
 ## Неделя 2. Основы визуализации данных в научной практике
